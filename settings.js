@@ -11,25 +11,25 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
              global.ownername = "DAHAM PANSILU" // Owner name //
              global.ytname = "YT: ONYXPIKA" // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
-             global.location = "India, Assam, Dibrugarh" // Location //
+             global.location = "Srilanka, AnAnuradhapura" // Location //
              global.owner = ['94717069879','94717069879','94717069879']
              global.ownertag = '94717069879' // Tag number //
              global.linkz = "https://wa.me/+94717069879" // Theme url which will be displayed on whatsapp //
              global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
              global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-             global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-             global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-             actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-             global.premium = ['918811074852'] // premium numbers //
-             global.headerText = "Anya by Pika" // text for header of menus //
-             global.waterMark = "×͜× Pika™ ✓" // Your own watermark //
+             global.packname = "SHADOW KILLER WA BOT👍" // sticker watermark packname //
+             global.author = "🥵DAHAM PANSILU" // sticker watermark author //
+             actiontitle = '࿙⚜SHADOW KILLER⚜࿚' // text who displays on the top of welcome and left message //
+             global.premium = ['94717069879'] // premium numbers //
+             global.headerText = "SHADOW KILLER WA BOT" // text for header of menus //
+             global.waterMark = "SHADOW KILLER™" // Your own watermark //
 
 global.prefa = ['/','-']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
-name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
-name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
+name16 = "SHADOW KILLER"
+name17 = "*SHADOW KILLER*"
+name18 = "*SHADOW KILLER*"
 
 //--------Random footer message-----------\\
 footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
