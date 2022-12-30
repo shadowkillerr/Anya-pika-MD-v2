@@ -36,8 +36,8 @@ footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
 footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
-nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
-nikalmsg2 = 'Patt se headshot 🔫...Abey dil se bura lagta hai bhai 😂.'
+nikalmsg1 = 'HEY BROTHER / SISTER GOOD BYE🙂...HAVE A NICE DAY😚' 
+nikalmsg2 = ' එයා ගියා නේද අපිට මොකෝ😂...අපි ගියපු එකා වෙනුවට හොද එකෙක්ව ඇඩ් කරගමු♥️'
 
 //--------Text for document captions--------\\
 global.Menudoccap1 = 'Best friendly Bot for you...'
