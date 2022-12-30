@@ -2,42 +2,42 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "SHADOW KILLER" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
              //--------Owner & vcard--------\\
-             global.botname = "Queen Anya" 
-             global.ownernumber = ['918811074852'] // Owner number //
-             global.vcardowner = ['918811074852'] // vcard owner number //
-             global.ownername = "3.69_Pika" // Owner name //
-             global.ytname = "YT: ONYXPIKA" // Yt chanel name //
-             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
-             global.location = "India, Assam, Dibrugarh" // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852' // Tag number //
-             global.linkz = "https://wa.me/+918811074852" // Theme url which will be displayed on whatsapp //
-             global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
+             global.botname = "SHADOW KILLER" 
+             global.ownernumber = ['94717069879'] // Owner number //
+             global.vcardowner = ['94717069879'] // vcard owner number //
+             global.ownername = "DAHAM PANSILU" // Owner name //
+             global.ytname = "YT: SHADOW KILLER" // Yt chanel name //
+             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : SHADOW KILLER" // Github or insta name //
+             global.location = "Sri Lanka, Anuradhapura, Anuradhapura" // Location //
+             global.owner = ['94717069879','94717069879','94717069879']
+             global.ownertag = '94717069879' // Tag number //
+             global.linkz = "https://wa.me/+94717069879" // Theme url which will be displayed on whatsapp //
+             global.websitex = "https://github.com/shadowkillerr" // Website to be displayed //
              global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-             global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-             global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-             actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-             global.premium = ['918811074852'] // premium numbers //
-             global.headerText = "Anya by Pika" // text for header of menus //
-             global.waterMark = "×͜× Pika™ ✓" // Your own watermark //
+             global.packname = "丂𝒽𝔸ｄ𝔬𝓌 кι𝔩𝔩ε𝐫 𝓌𝔸 β𝔬𝓉" // sticker watermark packname //
+             global.author = "丂𝒽𝔸ｄ𝔬𝓌 кι𝔩𝔩ε𝐫 𝓌𝔸 β𝔬𝓉" // sticker watermark author //
+             actiontitle = '࿙⚜𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁⚜࿚' // text who displays on the top of welcome and left message //
+             global.premium = ['94717069879'] // premium numbers //
+             global.headerText = "𝓢𝓗𝓐𝓓𝓞𝓦 𝓚𝓘𝓛𝓛𝓔𝓡 𝓑𝓨 𝓓𝓐𝓗𝓐𝓜" // text for header of menus //
+             global.waterMark = "丂𝒽𝔸ｄ𝔬𝓌 кι𝔩𝔩ε𝐫 𝓌𝔸 β𝔬𝓉™" // Your own watermark //
 
 global.prefa = ['/','-']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
-name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
-name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
+name16 = "🇸​🇭​🇦​🇩​🇴​🇼​ 🇰​🇮​🇱​🇱​🇪​🇷​"
+name17 = "*🇸​🇭​🇦​🇩​🇴​🇼​ 🇰​🇮​🇱​🇱​🇪​🇷​*"
+name18 = "*🇸​🇭​🇦​🇩​🇴​🇼​ 🇰​🇮​🇱​🇱​🇪​🇷​*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `🇸​🇭​🇦​🇩​🇴​🇼​ 🇰​🇮​🇱​🇱​🇪​🇷​`
+footer2 = `🇸​🇭​🇦​🇩​🇴​🇼​ 🇰​🇮​🇱​🇱​🇪​🇷​`
 
 //--------Left message "Nikal msg"--------\\
-nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
-nikalmsg2 = 'Patt se headshot 🔫...Abey dil se bura lagta hai bhai 😂.'
+nikalmsg1 = ' BYE FRIEND🙂 HAVE A NICE DAY♥️' 
+nikalmsg2 = 'එයා ගියා නේද😂 කමක් නෑ වෙන කෙනෙක් ජොයින් වෙයිනේ♥️ .'
 
 //--------Text for document captions--------\\
 global.Menudoccap1 = 'Best friendly Bot for you...'
@@ -51,12 +51,12 @@ tag1 = '𝘏𝘦𝘺 𝘦𝘷𝘦𝘳𝘺𝘣𝘰𝘥𝘺😚, 𝘊𝘰𝘮𝘦 
 tag2 = '𝘖𝘺𝘦 𝘦𝘷𝘦𝘳𝘺𝘰𝘯𝘦!! 𝘞𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?😐' 
 tag3 = '𝘈𝘣𝘦𝘺 𝘰𝘯𝘭𝘪𝘯𝘦 𝘢𝘢𝘰 𝘺𝘢𝘢𝘳!😑' 
 tag4 = '𝘞𝘰𝘸 𝘭𝘰𝘰𝘬 𝘢𝘵 𝘵𝘩𝘪𝘴 𝘢𝘥𝘷𝘢𝘯𝘤𝘦 𝘉𝘰𝘵.😚' 
-tag5 = '𝘠𝘢𝘢𝘳 𝘬𝘺𝘢 𝘉𝘰𝘵 𝘩𝘢𝘪❤️' 
-tag6 = '𝘐𝘵𝘯𝘢 𝘮𝘻𝘢 𝘬𝘺𝘶 𝘢𝘢 𝘳𝘩𝘢 𝘩𝘢𝘪...𝘛𝘶𝘯𝘦 𝘩𝘢𝘸𝘢 𝘮𝘦 𝘣𝘩𝘢𝘯𝘨 𝘮𝘪𝘭𝘢𝘺𝘢 𝘩𝘢𝘪!🥵' 
+tag5 = 'HEY GUYS❤️' 
+tag6 = 'HELLOW EVERYBODY🥵' 
 tag7 = '𝘞𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?' 
-tag8 = '𝘏𝘦𝘺 𝘸𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?...𝘤𝘰𝘮𝘦 𝘩𝘦𝘳𝘦 𝘨𝘶𝘺𝘴 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘖𝘗 𝘉𝘰𝘵!🔥' 
-tag9 = '𝘠𝘰𝘶 𝘢𝘭𝘭 𝘴𝘩𝘰𝘶𝘭 𝘵𝘳𝘺 𝘵𝘩𝘪𝘴 𝘤𝘶𝘵𝘦 𝘈𝘯𝘺𝘢❤️🍫' 
-tag10 = '𝘈𝘺𝘰𝘰 𝘈𝘯𝘺𝘢 𝘪𝘴 𝘉𝘦𝘴𝘵!!😚' 
+tag8 = '𝘏𝘦𝘺 𝘸𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?...𝘤𝘰𝘮𝘦 𝘩𝘦𝘳𝘦 𝘨𝘶𝘺𝘴 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 SK 𝘉𝘰𝘵!🔥' 
+tag9 = '𝘠𝘰𝘶 𝘢𝘭𝘭 𝘴𝘩𝘰𝘶𝘭 𝘵𝘳𝘺 𝘵𝘩𝘪𝘴 𝘤𝘶𝘵𝘦 丂𝒽𝔸ｄ𝔬𝓌 кι𝔩𝔩ε𝐫❤️🍫' 
+tag10 = 'sɥɐdoʍ ʞıllǝɹ boʇ ıs bǝsʇ!!😚' 
 
 
 global.mess = {
